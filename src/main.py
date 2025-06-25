@@ -1,5 +1,5 @@
-from Client import ClientProcess
+from Parser import ParseTorrent
 
 
 file = input("give a .torrent file: ")
-ClientProcess()
+ParseTorrent()
